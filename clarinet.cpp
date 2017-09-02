@@ -9,15 +9,8 @@
 
 // Include here whatever particular STK declarations are needed 
 #include "Clarinet.h"
-#include "PRCRev.h"
-#include "JCRev.h"
-#include "NRev.h"
-#include "Echo.h"
-#include "PitShift.h"
 #include "Chorus.h"
 #include "BiQuad.h"
-#include "Resonate.h"
-
 
 // The class clarinet corresponds to the object clarinet~ that
 // may be instantiated in the PD environment.
